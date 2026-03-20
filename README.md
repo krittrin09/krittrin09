@@ -8,7 +8,7 @@
 - 🎓 ปัจจุบันกำลังศึกษาอยู่ที่มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี (คาดว่าจะสำเร็จการศึกษา: มีนาคม 2569)
 - 💼 มีประสบการณ์ฝึกงานด้าน Data Engineer ในการสร้าง Automated Data Pipelines, Web Scraping และนำ Machine Learning มาประยุกต์ใช้
 - 🤖 สนใจการพัฒนาระบบแชทบอทและ Generative AI โดยเฉพาะการทำ **RAG (Retrieval-Augmented Generation)**
-- 📫 ช่องทางการติดต่อ: [krittrin.mk@gmail.com] | 
+- 📫 ช่องทางการติดต่อ: krittrin.mk@gmail.com
 
 ---
 
