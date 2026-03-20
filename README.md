@@ -47,4 +47,4 @@
 
 
 ### 📊 GitHub Stats
-![Krittrin's GitHub stats](https://github.readme-stats.vercel.app/api?username=krittrin09&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=krittrin09&show_icons=true&theme=radical" alt="Krittrin's GitHub stats" width="400" />
