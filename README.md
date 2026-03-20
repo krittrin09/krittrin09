@@ -47,5 +47,4 @@
 
 
 ### 📊 GitHub Stats
-![Krittrin's GitHub stats](https://github.readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-*(หมายเหตุ: อย่าลืมเปลี่ยนคำว่า `YOUR_GITHUB_USERNAME` ในลิงก์ด้านบนเป็นชื่อไอดี GitHub ของคุณนะครับ)*
+![Krittrin's GitHub stats](https://github.readme-stats.vercel.app/api?username=krittrin09&show_icons=true&theme=radical)
